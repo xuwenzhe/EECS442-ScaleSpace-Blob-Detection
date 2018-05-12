@@ -1,6 +1,6 @@
-# Computer-Vision-ScaleSpace-Blob-Detection
+# Umich EECS 442 (Winter 2018) Homework 3 
 
-Umich EECS 442 (Winter 2018) homework 3 by Wenzhe Xu
+by Wenzhe Xu
 
 Keywords: feature (blob) extraction using LoG filter
 
